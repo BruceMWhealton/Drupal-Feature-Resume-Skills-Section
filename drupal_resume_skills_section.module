@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Drupal Resume Skills Section feature.
+ */
+
+include_once 'drupal_resume_skills_section.features.inc';
